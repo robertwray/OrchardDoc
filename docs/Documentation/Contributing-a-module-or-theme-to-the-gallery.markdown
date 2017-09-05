@@ -2,14 +2,11 @@
 Have you created an Orchard module or theme that you want to share with other Orchard users?  The [Orchard Gallery](http://gallery.orchardproject.net/) makes this easy, and you can always update and manage your contributions to the gallery as you have new versions to share, or when you want to make changes to existing contributions.  
 
 
-To get started, click on the **Contribute** tab of the gallery site.
-
-![](../Upload/screenshots_675/gallery_contribute.png)
-
+To get started, create a new user account to upload your new module or theme with.
 
 ## Creating a User Account
 
-To submit a module or theme to the gallery, you must first create a user account on the gallery.  Click the **Sign In** link in the header area of the site to get to the **Log On** page.  In the sidebar for the site, click the  link to **Register Now**.
+To submit a module or theme to the gallery, you must first create a user account on the gallery.  Click the **Sign In** link in the header area of the site to get to the **Log On** page.  In the text above the *Username* and *Password* fields, you'll see a link to **Register**.
 
 ![](../Upload/screenshots_675/gallery_logon.png)
 
@@ -24,6 +21,8 @@ Upon submitting this form, you will receive a notification that email has been s
 Click the verification link in the email in order to activate your account.
 
 ![](../Upload/screenshots_675/gallery_email.png)
+
+The address of the gallery in the email won't display *gallery.orchardproject.net*, this is a [known issue](https://github.com/OrchardCMS/Orchard.Gallery/issues/22) which is tracked against the Orchard.Gallery repository.
 
 This will return you to the web site, where you can now sign in.
 
